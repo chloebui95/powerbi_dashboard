@@ -4,7 +4,7 @@ This repo features a Revenue Performance PowerBI dashboard that demonstrates how
 
 This dashboard used the public [Microsoft Contoso Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=18279) for demonstration purpose. Viewers are free to apply this framework for their own specific datasets & business scenarios.
 
-**Link Dashboard**: [Dashboard](hhttps://app.powerbi.com/view?r=eyJrIjoiMTc0NTJiZDEtNmQzZS00ODNhLThiYWYtMzdjMzg1ZTczZGYwIiwidCI6IjE1NTFmMjY3LTQ1NzAtNGViMy04NzhlLTFlN2FlNDI1MjE4OCIsImMiOjEwfQ%3D%3D&pageName=ReportSection0c68c706183b0931935c)
+**Link Dashboard**: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTc0NTJiZDEtNmQzZS00ODNhLThiYWYtMzdjMzg1ZTczZGYwIiwidCI6IjE1NTFmMjY3LTQ1NzAtNGViMy04NzhlLTFlN2FlNDI1MjE4OCIsImMiOjEwfQ%3D%3D&pageName=ReportSection0c68c706183b0931935c)
 
 ## Dashboard Guideline
 
